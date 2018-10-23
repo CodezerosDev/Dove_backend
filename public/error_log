@@ -1,0 +1,255 @@
+[28-Jul-2018 06:17:26 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 277
+[28-Jul-2018 06:17:26 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 278
+[28-Jul-2018 06:17:26 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 279
+[28-Jul-2018 06:17:26 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 280
+[28-Jul-2018 06:17:26 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 281
+[28-Jul-2018 06:17:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:18:29 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 277
+[28-Jul-2018 06:18:29 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 278
+[28-Jul-2018 06:18:29 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 279
+[28-Jul-2018 06:18:29 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 280
+[28-Jul-2018 06:18:29 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 281
+[28-Jul-2018 06:18:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:25:01 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 277
+[28-Jul-2018 06:25:01 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 278
+[28-Jul-2018 06:25:01 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 279
+[28-Jul-2018 06:25:01 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 280
+[28-Jul-2018 06:25:01 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 281
+[28-Jul-2018 06:25:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:25:10 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 277
+[28-Jul-2018 06:25:10 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 278
+[28-Jul-2018 06:25:10 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 279
+[28-Jul-2018 06:25:10 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 280
+[28-Jul-2018 06:25:10 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 281
+[28-Jul-2018 06:25:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:30:02 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 277
+[28-Jul-2018 06:30:02 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 278
+[28-Jul-2018 06:30:02 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 279
+[28-Jul-2018 06:30:02 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 280
+[28-Jul-2018 06:30:02 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 281
+[28-Jul-2018 06:30:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 277
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 278
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 279
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 280
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 281
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 295
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 296
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 297
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 298
+[28-Jul-2018 06:31:59 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 299
+[28-Jul-2018 06:31:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 277
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 278
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 279
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 280
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 281
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 295
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 296
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 297
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 298
+[28-Jul-2018 06:32:04 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 299
+[28-Jul-2018 06:32:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:32:25 America/Chicago] PHP Notice:  Constant INVLIDRESETCODE already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 277
+[28-Jul-2018 06:32:25 America/Chicago] PHP Notice:  Constant PINFILDREQUIRED already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 278
+[28-Jul-2018 06:32:25 America/Chicago] PHP Notice:  Constant PINSETSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 279
+[28-Jul-2018 06:32:25 America/Chicago] PHP Notice:  Constant PINSETUNSUCCESSFULLY already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 280
+[28-Jul-2018 06:32:25 America/Chicago] PHP Notice:  Constant USERREGISTERSUCCESS already defined in /home4/ovzwwfat/public_html/dashboard/public/index.php on line 281
+[28-Jul-2018 06:32:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:32:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:35:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:35:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:35:22 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(102): DB(Array, NULL)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(1171): MX_Loader->database()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(62): CI_Loader->initialize()
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/Controller.php(51): MX_Loader->initialize()
+#7 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Base.php( in /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php on line 91
+[28-Jul-2018 06:55:28 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot access parent:: when current class scope has no parent in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/PasswordHash.php:37
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/auth.php(578): PasswordHash->__construct(-1, false)
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/auth.php(512): Auth->getPasswordHasher(-1)
+#2 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/auth.php(183): Auth->check_password('hardy@dove', '$2a$08$g5UVpO2m...')
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/controllers/users.php(79): Auth->login('hardy@dovenet.c...', 'hardy@dove', false)
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/CodeIgniter.php(363): Users->login()
+#5 /home4/ovzwwfat/public_html/dashboard/public/index.php(329): require_once('/home4/ovzwwfat...')
+#6 {main}
+  thrown in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/PasswordHash.php on line 37
+[28-Jul-2018 08:42:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Permission_model' not found in /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php:209
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/auth.php(782): MX_Loader->model('Permission_mode...')
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/auth.php(352): Auth->loadPermissions()
+#2 /home4/ovzwwfat/public_html/dashboard/application/core/Admin_Controller.php(67): Auth->has_permission('bonfire.profile...')
+#3 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/controllers/siteusers.php(9): Admin_Controller->__construct()
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/CodeIgniter.php(312): siteusers->__construct()
+#5 /home4/ovzwwfat/public_html/dashboard/public/index.php(329): require_once('/home4/ovzwwfat...')
+#6 {main}
+  thrown in /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php on line 209
+[28-Jul-2018 09:05:47 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/views/user_meta.php:58
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(321): include()
+#1 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#2 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/views/siteusers/user_form.php(99): MX_Loader->view('user_meta')
+#3 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(321): include('/home4/ovzwwfat...')
+#4 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#5 /home4/ovzwwfat/public_html/dashboard/bonfire/libraries/template.php(683): MX_Loader->view('user_form', Array, true)
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/libraries/template.php(219): Template::load_view('siteusers/user_...', Array, 'siteusers/edit', false, '')
+#7 /home4/ovzwwfat in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/views/user_meta.php on line 58
+[28-Jul-2018 09:06:11 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/views/user_meta.php on line 58
+[28-Jul-2018 09:06:35 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/views/user_meta.php on line 58
+[28-Jul-2018 09:06:51 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/views/user_meta.php:55
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(321): include()
+#1 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#2 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/views/siteusers/user_form.php(99): MX_Loader->view('user_meta')
+#3 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(321): include('/home4/ovzwwfat...')
+#4 /home4/ovzwwfat/public_html/dashboard/application/third_party/MX/Loader.php(269): MX_Loader->_ci_load(Array)
+#5 /home4/ovzwwfat/public_html/dashboard/bonfire/libraries/template.php(683): MX_Loader->view('user_form', Array, true)
+#6 /home4/ovzwwfat/public_html/dashboard/bonfire/libraries/template.php(219): Template::load_view('siteusers/user_...', Array, 'siteusers/edit', false, '')
+#7 /home4/ovzwwfat in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/views/user_meta.php on line 55
+[28-Jul-2018 09:16:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function post() on null in /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/controllers/siteusers.php:620
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/controllers/siteusers.php(356): siteusers->save_user('update', '46', Array, 'User')
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/CodeIgniter.php(363): siteusers->edit('46')
+#2 /home4/ovzwwfat/public_html/dashboard/public/index.php(329): require_once('/home4/ovzwwfat...')
+#3 {main}
+  thrown in /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/controllers/siteusers.php on line 620
+[30-Jul-2018 04:40:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/PasswordHash.php on line 131
+[30-Jul-2018 05:05:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function countr() in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/PasswordHash.php:251
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/auth.php(544): PasswordHash->HashPassword('vishal@123')
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/models/user_model.php(260): Auth->hash_password('vishal@123')
+#2 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/controllers/users.php(902): User_model->insert(Array)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/controllers/users.php(510): Users->saveUser('insert', 0, Array)
+#4 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/CodeIgniter.php(363): Users->register()
+#5 /home4/ovzwwfat/public_html/dashboard/public/index.php(329): require_once('/home4/ovzwwfat...')
+#6 {main}
+  thrown in /home4/ovzwwfat/public_html/dashboard/bonfire/modules/users/libraries/PasswordHash.php on line 251
+[30-Jul-2018 08:57:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method CH_Grid_generator::_delete_user() in /home4/ovzwwfat/public_html/dashboard/application/libraries/CH_Grid_generator.php:107
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/application/libraries/CH_Grid_generator.php(59): CH_Grid_generator->_fire_action()
+#1 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/models/user_master_model.php(100): CH_Grid_generator->get_result()
+#2 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/controllers/siteusers.php(26): User_master_model->read(Array)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/CodeIgniter.php(363): siteusers->index('1532958267950')
+#4 /home4/ovzwwfat/public_html/dashboard/public/index.php(329): require_once('/home4/ovzwwfat...')
+#5 {main}
+  thrown in /home4/ovzwwfat/public_html/dashboard/application/libraries/CH_Grid_generator.php on line 107
+[30-Jul-2018 23:45:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method CH_Grid_generator::_delete_user() in /home4/ovzwwfat/public_html/dashboard/application/libraries/CH_Grid_generator.php:107
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/application/libraries/CH_Grid_generator.php(59): CH_Grid_generator->_fire_action()
+#1 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/models/user_master_model.php(100): CH_Grid_generator->get_result()
+#2 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/controllers/siteusers.php(26): User_master_model->read(Array)
+#3 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/CodeIgniter.php(363): siteusers->index('1533012312453')
+#4 /home4/ovzwwfat/public_html/dashboard/public/index.php(329): require_once('/home4/ovzwwfat...')
+#5 {main}
+  thrown in /home4/ovzwwfat/public_html/dashboard/application/libraries/CH_Grid_generator.php on line 107
+[31-Jul-2018 00:21:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method User_master_model::db_lastQuery() in /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/models/user_master_model.php:101
+Stack trace:
+#0 /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/controllers/siteusers.php(26): User_master_model->read(false)
+#1 /home4/ovzwwfat/public_html/dashboard/bonfire/codeigniter/core/CodeIgniter.php(363): siteusers->index()
+#2 /home4/ovzwwfat/public_html/dashboard/public/index.php(329): require_once('/home4/ovzwwfat...')
+#3 {main}
+  thrown in /home4/ovzwwfat/public_html/dashboard/application/modules/user_master/models/user_master_model.php on line 101

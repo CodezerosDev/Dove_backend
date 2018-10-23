@@ -1,0 +1,20 @@
+trunk\public\themes\metronic\assets\global
+
+go to this path delete plugin folder and replace it with above folder
+----------------------------------------------------------------------
+trunk\public\themes\metronic\assets\admin
+
+2 folders needed layout and pages
+remove layout2,layout3,layout4
+----------------------------------------------------------------------
+trunk\public\themes\metronic
+
+remove sass and templates folder
+----------------------------------------------------------------------
+trunk\public\themes\metronic\assets
+
+remove frontend folder
+-----------------------------------------------------------------------
+
+
+Bhaumik bhuva

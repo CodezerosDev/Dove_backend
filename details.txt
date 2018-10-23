@@ -1,0 +1,12 @@
+
+DB
+
+IP: 50.116.93.87
+Port: 3306
+Username: ovzwwfat_webclue
+Password: 0=A_Q[hAmmJ3
+DB Name: ovzwwfat_kyc
+
+
+http://dove.network/dashboard/
+
